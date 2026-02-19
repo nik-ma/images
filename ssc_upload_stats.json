@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19T09:56:43.727Z",
+  "updatedAt": "2026-02-19T09:57:12.404Z",
   "workers": {
     "nikhil": {
       "totalUploads": 1,
@@ -11,8 +11,8 @@
       "lastUploadAt": "2026-02-17T06:08:06.044Z"
     },
     "sumit": {
-      "totalUploads": 1497,
-      "uniqueCount": 1497,
+      "totalUploads": 1498,
+      "uniqueCount": 1498,
       "uniqueIds": {
         "630680296586": true,
         "630680325823": true,
@@ -434,9 +434,10 @@
         "26433097444": true,
         "26433097444_A": true,
         "26433097444_B": true,
-        "26433097444_C": true
+        "26433097444_C": true,
+        "26433097444_D": true
       },
-      "lastUploadAt": "2026-02-19T09:56:43.727Z"
+      "lastUploadAt": "2026-02-19T09:57:12.404Z"
     },
     "Subhash": {
       "totalUploads": 4,
