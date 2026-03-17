@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.06994in" height="3.38489in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3066 3380"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#373435;fill-rule:nonzero}
+    .fil0 {fill:#282829;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2614358213456">
+   <g>
+    <path class="fil0" d="M1509 321c0,-11 9,-21 21,-21 11,0 21,9 21,21l-42 0zm0 2625l0 -2625 42 0 0 2625 -42 0zm3 44l35 -23 -35 0 106 -164 35 23 -106 164 -35 0zm0 0l35 0 -17 27 -17 -27zm-89 -176l17 -11 107 164 -35 23 -107 -164 17 -11zm127 132c0,11 -9,21 -21,21 -11,0 -21,-9 -21,-21l42 0z"/>
+   </g>
+   <g>
+    <path class="fil0" d="M70 336c-8,-8 -9,-21 -1,-29 8,-8 21,-9 29,-1l-28 31zm2850 2644l-2850 -2644 28 -31 2850 2644 -28 31zm34 27l7 -41 -24 26 -48 -190 40 -10 48 190 -24 26zm0 0l24 -26 8 31 -32 -5zm-189 -54l4 -20 193 34 -7 41 -193 -34 4 -20zm183 -4c8,8 9,21 1,29 -8,8 -21,9 -29,1l28 -31z"/>
+   </g>
+   <g>
+    <path class="fil0" d="M2962 305c8,-8 22,-7 29,1 8,8 7,22 -1,29l-28 -31zm-2850 2644l2850 -2644 28 31 -2850 2644 -28 -31zm-30 32l40 10 -24 -26 193 -34 7 41 -193 34 -24 -26zm0 0l24 26 -32 6 8 -31zm68 -185l20 5 -48 190 -40 -10 48 -190 20 5zm-10 183c-8,8 -22,7 -29,-1 -8,-8 -7,-22 1,-29l28 31z"/>
+   </g>
+   <polygon class="fil1" points="18,238 18,0 50,0 175,187 175,0 205,0 205,238 173,238 48,51 48,238 "/>
+   <polygon class="fil1" points="1451,254 1451,16 1482,16 1482,134 1601,16 1643,16 1543,113 1648,254 1606,254 1521,134 1482,172 1482,254 "/>
+   <polygon class="fil1" points="2939,260 2939,50 2860,50 2860,22 3049,22 3049,50 2970,50 2970,260 "/>
+   <polygon class="fil1" points="79,3358 79,3148 0,3148 0,3120 189,3120 189,3148 110,3148 110,3358 "/>
+   <polygon class="fil1" points="1451,3374 1451,3136 1482,3136 1482,3254 1601,3136 1643,3136 1543,3232 1648,3374 1606,3374 1521,3254 1482,3292 1482,3374 "/>
+   <polygon class="fil1" points="2878,3380 2878,3142 2910,3142 3035,3329 3035,3142 3066,3142 3066,3380 3033,3380 2908,3193 2908,3380 "/>
+  </g>
+ </g>
+</svg>
